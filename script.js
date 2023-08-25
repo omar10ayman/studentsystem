@@ -7,6 +7,7 @@ var getId = document.getElementById("idStu")
 var addHours = 0;
 var gpa = [];
 var omar;
+var gaber
 var addSelSub = []
 var students = [
     {
