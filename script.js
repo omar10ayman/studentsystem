@@ -6,7 +6,7 @@ var totalGpa = document.getElementById("show-total")
 var getId = document.getElementById("idStu")
 var addHours = 0;
 var gpa = [];
-
+var omar;
 var addSelSub = []
 var students = [
     {
